@@ -1,0 +1,1 @@
+bind "c" "toggle cl_crosshair_alpha 0 255; play ui/alert_clink"
